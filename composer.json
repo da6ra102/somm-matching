@@ -4,6 +4,9 @@
             "Somm\\": "src/"
         }
     },
+    "scripts": {
+        "psalm": "./vendor/bin/psalm"
+    },
     "require-dev": {
         "vimeo/psalm": "^5.26"
     }

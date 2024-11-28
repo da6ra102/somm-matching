@@ -30,7 +30,7 @@ class Questionaire
 
       /**
        * Summary of getQuestions
-       * @psalm-return array<int, Question>
+       * @psalm-return array<int, Question> 
        */
       public function getQuestions(): array
       {
